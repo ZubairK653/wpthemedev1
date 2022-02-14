@@ -1,0 +1,15 @@
+.custom-logo{
+	height: 3.8rem !important;
+	width: 100% !important;
+}
+
+
+.widget_media_gallery img{width: 80px !important;
+    height: 80px !important;
+    object-fit: cover;
+    border-radius: 6px;
+    margin: 0 2px;}
+
+.mbr-white .foot-menu a{
+        color: #fff !important;
+    }

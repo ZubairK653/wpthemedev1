@@ -1,0 +1,91 @@
+  <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Food-menu &#8211; HTML TO WP</title>
+	<atom:link href="https://zubairk653.github.io/wpthemedev1/food-menus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zubairk653.github.io/wpthemedev1</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 07 Feb 2022 19:33:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>Mozzarella Pizza</title>
+		<link>https://zubairk653.github.io/wpthemedev1/food-menus/mozzarella-pizza/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 19:32:58 +0000</pubDate>
+				<category><![CDATA[Thai Food]]></category>
+		<guid isPermaLink="false">http://localhost/HTML2WP/?post_type=food-menu&#038;p=96</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorper eget lectus porta euismod a libero.]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorper eget lectus porta euismod a libero.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Spicy Fish Pizza</title>
+		<link>https://zubairk653.github.io/wpthemedev1/food-menus/spicy-fish-pizza-2/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 19:31:54 +0000</pubDate>
+				<category><![CDATA[Pizza]]></category>
+		<guid isPermaLink="false">http://localhost/HTML2WP/?post_type=food-menu&#038;p=95</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorper eget lectus porta euismod a libero.]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorper eget lectus porta euismod a libero.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Spicy Fish Pizza</title>
+		<link>https://zubairk653.github.io/wpthemedev1/food-menus/spicy-fish-pizza/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 19:24:10 +0000</pubDate>
+				<category><![CDATA[Thai Food]]></category>
+		<guid isPermaLink="false">http://localhost/HTML2WP/?post_type=food-menu&#038;p=94</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorper eget lectus porta euismod a libero]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorper eget lectus porta euismod a libero</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Salmon Pizza</title>
+		<link>https://zubairk653.github.io/wpthemedev1/food-menus/salmon-pizza/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 06 Feb 2022 07:37:50 +0000</pubDate>
+				<category><![CDATA[SUSHI]]></category>
+		<guid isPermaLink="false">http://localhost/HTML2WP/?post_type=food-menu&#038;p=88</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorper eget lectus porta euismod a libero.]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorper eget lectus porta euismod a libero.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
